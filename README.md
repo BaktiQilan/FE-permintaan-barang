@@ -1,0 +1,1 @@
+Untuk Frontend Vue, saya masih bingung pada proses menampilkan select option pada v-select dengan sumber data dari axios. dan juga masih belum bisa menemukan solusi terkait form dinamis yang bisa ditambahkan atau di hapus untuk form inputnya. Tetapi untuk backendnya sudah jalan jika dicoba di postman.
